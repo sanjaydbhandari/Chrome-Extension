@@ -1,0 +1,17 @@
+{
+    "name":"English Lyrics",
+    "version": "1.0.0",
+    "description":"English Lyrics",
+    "manifest_version": 3,
+    "author":"Sanjay Bhandari",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "English Lyrics",
+        "default_icon": {
+            "16": "logo.png",
+            "48": "logo.png",
+            "128": "logo.png"
+          }
+    }
+
+}

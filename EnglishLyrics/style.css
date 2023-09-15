@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css?family=Dancing+Script|Josefin+Sans:600");
+
+:root {
+  --white: #fff;
+  --black: #232121;
+  --grey: #4b4646;
+  --lightpink: #ffb8d7;
+  --darkpink: #ff0055;
+  --sans: "josefin sans", sans serif;
+}
+
+body {
+  background: var(--lightpink);
+  color: var(--black);
+  min-width: 450px;
+  min-height: 350px;
+}
+
+.box {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 95%;
+  height: 83%;
+  transform: translate(-50%, -50%);
+  background: var(--pink);
+  border-radius: 5px;
+  overflow: hidden;
+  box-shadow: 0 0 1.5rem var(--black);
+  font-size: 1rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+.border {
+  position: relative;
+  border: 5px solid var(--darkpink);
+  border-radius: 5px;
+  margin: 5px;
+  padding: 3px;
+  height: 90%;
+}
+
+#lyrics,
+.title {
+  font-weight: bold;
+  text-shadow: 2px 1px 3px var(--darkpink);
+  color: #fff;
+}
+
+.center {
+  margin: 0 5px;
+  position: absolute;
+  top: 50%;
+  transform: translate(0, -50%);
+  padding: 10px;
+}
+
+.desp {
+  font-size: 12px;
+  color: var(--grey);
+  text-shadow: 2px 1px 3px var(--darkpink);
+}
