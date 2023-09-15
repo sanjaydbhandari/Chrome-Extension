@@ -1,4 +1,5 @@
 
+<h1 style="font-size:30px">Random English Lyrics Chrome Extension using API</h1>
 <h1>Installation Instructions</h1>
 
 <h2>Google Chrome / Microsoft Edge (Custom sites supported)</h2>
