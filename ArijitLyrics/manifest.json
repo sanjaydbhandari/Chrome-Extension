@@ -1,0 +1,17 @@
+{
+    "name":"Arijit Lyrics",
+    "version": "1.0.0",
+    "description":"Arijit Lyrics",
+    "manifest_version": 3,
+    "author":"Sanjay Bhandari",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Arijit Lyrics",
+        "default_icon": {
+            "16": "logo.png",
+            "48": "logo.png",
+            "128": "logo.png"
+          }
+    }
+
+}
