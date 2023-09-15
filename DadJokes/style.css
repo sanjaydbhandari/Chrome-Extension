@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script|Josefin+Sans:600');
+
+
+:root {
+	--main-color: #643A7A;
+	--secondary-color: #741CAF;
+    --white: #fff;
+    --black: #000;
+    --pink: #F178B5;
+	--sans: "josefin sans", sans serif;
+}
+
+body {
+	background: #FFB8D7;
+    color: var(--black) ;
+    min-width: 300px;
+    min-height: 200px;
+}
+
+.box {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 80%;
+    height: 70%;
+    transform: translate(-50%, -50%);
+    background: var(--pink);
+    border-radius: 5px;
+    overflow: hidden;
+    box-shadow: 0 0 1.5rem rgba(35, 33, 33, 1);
+    font-size: 1.0rem;
+    font-weight:bold;
+    text-align: center;
+  }
+
+p .activity {
+    position: absolute;               
+    top: 50%;                         
+    transform: translate(0, -50%) ;
+    text-align: center;
+}
+
+
+
