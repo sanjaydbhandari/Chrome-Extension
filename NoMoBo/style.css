@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script|Josefin+Sans:600');
+
+
+:root {
+	--main-color: #643A7A;
+	--secondary-color: #741CAF;
+    --white: #fff;
+	--sans: "josefin sans", sans serif;
+}
+
+body {
+	background: #201C29;
+    color: var(--white) ;
+    min-width: 300px;
+    min-height: 150px;
+}
+
+.container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-left: -200px;
+  margin-top: -200px;
+  width: 400px;
+  height: 400px;
+	background: var(--main-color);
+  border-radius: 5px;
+  font-family: "dancing script", cursive;
+  overflow: hidden;
+  color: rgb( 121, 125, 127 );
+  letter-spacing: .5px;
+}
+
+.box {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 70%;
+    height: 60%;
+    transform: translate(-50%, -50%);
+    background: var(--secondary-color);
+    border-radius: 5px;
+    overflow: hidden;
+    box-shadow: 0 0 1.5rem rgba(48, 48, 48, 0.5);
+    font-size: 1.0rem;
+  }
+
+.activity{
+    position: relative;
+	top: 35%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+    padding: 10px;
+    border: solid 1px var(--secondary-color);
+}
+
+

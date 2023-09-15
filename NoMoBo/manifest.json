@@ -1,0 +1,17 @@
+{
+    "name":"NoMoBo | No More Boredom ",
+    "version": "1.0.1",
+    "description":"NoMoBo | No More Boredom ",
+    "manifest_version": 3,
+    "author":"Sanjay Bhandari",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "NoMoBo",
+        "default_icon": {
+            "16": "logo.png",
+            "48": "logo.png",
+            "128": "logo.png"
+          }
+    }
+
+}
