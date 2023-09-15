@@ -4,13 +4,13 @@
   --white: #fff;
   --black: #232121;
   --grey: #4b4646;
-  --lightpink: #ffb8d7;
-  --darkpink: #ff0055;
+  --lightpink: #FFB0DE;
+  --darkpink: #F603A3;
   --sans: "josefin sans", sans serif;
 }
 
 body {
-  background: var(--lightpink);
+  background: var(--darkpink);
   color: var(--black);
   min-width: 450px;
   min-height: 350px;
@@ -23,7 +23,7 @@ body {
   width: 95%;
   height: 83%;
   transform: translate(-50%, -50%);
-  background: var(--pink);
+  background: var(--lightpink);
   border-radius: 5px;
   overflow: hidden;
   box-shadow: 0 0 1.5rem var(--black);
@@ -57,7 +57,7 @@ body {
 }
 
 .desp {
-  font-size: 12px;
-  color: var(--grey);
-  text-shadow: 2px 1px 3px var(--darkpink);
+  font-size: 15px;
+  color: var(--darkpink);
+  text-shadow: 2px 1px 3px var(--white);
 }
