@@ -1,5 +1,10 @@
 
-<h1 style="font-size:30px">Random English Lyrics Chrome Extension using API</h1>
+<h1 style="font-size:30px">Random English Songs Lyrics Chrome Extension using API - EnglishLyrics Folder</h1>
+<h1 style="font-size:30px">Random Arijit Singh Song Lyrics Chrome Extension using API - ArijitLyrics Folder</h1>
+<h1 style="font-size:30px">Random Jokes Chrome Extension using API - DadJokes Folder</h1>
+<h1 style="font-size:30px">Random Activities Chrome Extension using API - NoMoBo Folder(No More Boredom)</h1>
+<br>
+<br>
 <h1>Installation Instructions</h1>
 
 <h2>Google Chrome / Microsoft Edge (Custom sites supported)</h2>
