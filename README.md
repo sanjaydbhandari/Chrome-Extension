@@ -1,5 +1,8 @@
 
-<h1 style="font-size:30px">Random English Songs Lyrics Chrome Extension using API - EnglishLyrics Folder</h1>
+#Random English Songs Lyrics Chrome Extension using API - EnglishLyrics Folder
+Designed, developed, and launched a Responsive personal Portfolio Website using HTML5,
+CSS3, and JavaScript to showcase a curated collection of projects and skills.
+
 <img src="https://github.com/sanjaybhandari-github/Chrome-Extension/blob/main/ss.png?raw=true">
 <h1 style="font-size:30px">Random Arijit Singh Song Lyrics Chrome Extension using API - ArijitLyrics Folder</h1>
 <h1 style="font-size:30px">Random Jokes Chrome Extension using API - DadJokes Folder</h1>
