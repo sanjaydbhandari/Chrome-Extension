@@ -1,5 +1,5 @@
 
-#Random English Songs Lyrics Chrome Extension using API - EnglishLyrics Folder
+<h1 style="font-size:30px">Random English Songs Lyrics Chrome Extension using API - EnglishLyrics Folder</h1>
 Designed, developed, and launched a Responsive personal Portfolio Website using HTML5,
 CSS3, and JavaScript to showcase a curated collection of projects and skills.
 
